@@ -1,0 +1,4 @@
+*.user
+CSharpHomework/**/.vs/
+CSharpHomework/**/bin/
+CSharpHomework/**/obj/
